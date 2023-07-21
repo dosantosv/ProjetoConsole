@@ -1,0 +1,24 @@
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe.config
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.pdb
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.exe
+C:\Users\Dell\Desktop\Workspace\Projetos\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.pdb
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe.config
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.pdb
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.exe
+C:\Users\vdosa\OneDrive\Área de Trabalho\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.pdb
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe.config
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.exe
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\bin\Debug\ProjetoConsole.pdb
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.exe
+C:\Users\Dell\Desktop\ProjetoConsole-main\ProjetoConsole\ProjetoConsole\obj\Debug\ProjetoConsole.pdb
